@@ -2,8 +2,6 @@
 
 ![image](https://i.ibb.co.com/TBy9W7Y/photo-2024-07-13-00-04-13.jpg)
 
-Penggunaan APK : https://youtu.be/2-p0Oga8YCs
-
 Last Update : 12 Juli 2024
 
 Source code : Yes
