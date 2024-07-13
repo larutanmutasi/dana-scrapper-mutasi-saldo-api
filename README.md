@@ -19,8 +19,6 @@ Features :
 
 Saya menjual APK ini, full source code juga tersedia.
 
-
-
 Contact me
 
 Telegram : [https://t.me/PengenAir](https://t.me/PengenAir)
